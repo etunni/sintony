@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="1">
+  <advance width="512"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <component  base="F"/>
+    <component  base="barra" xScale="0.8" yScale="0.89" xOffset="29" yOffset="-129"/>
+  </outline>
+</glyph>

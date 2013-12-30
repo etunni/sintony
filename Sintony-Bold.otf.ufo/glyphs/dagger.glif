@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dagger" format="1">
+  <advance width="472"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="460" y="572" type="line" name="hr00"/>
+      <point x="406" y="572" type="line"/>
+      <point x="304" y="561" type="line"/>
+      <point x="310" y="730" type="line"/>
+      <point x="162" y="730" type="line"/>
+      <point x="168" y="561" type="line"/>
+      <point x="66" y="572" type="line"/>
+      <point x="12" y="572" type="line"/>
+      <point x="12" y="466" type="line"/>
+      <point x="66" y="466" type="line"/>
+      <point x="171" y="477" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="301" y="477" type="line"/>
+      <point x="406" y="466" type="line"/>
+      <point x="460" y="466" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="21" width="-21" />
+      <hstem pos="466" width="106" />
+      <hstem pos="730" width="-20" />
+      <vstem pos="165" width="142" />
+      <vstem pos="179" width="113" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

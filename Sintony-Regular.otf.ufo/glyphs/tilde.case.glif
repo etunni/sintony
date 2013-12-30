@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.case" format="1">
+  <advance width="406"/>
+  <outline>
+    <contour>
+      <point x="276" y="833" type="curve" smooth="yes"/>
+      <point x="316" y="833"/>
+      <point x="347" y="857"/>
+      <point x="368" y="932" type="curve"/>
+      <point x="312" y="950" type="line"/>
+      <point x="302" y="920" smooth="yes"/>
+      <point x="291" y="906" smooth="yes"/>
+      <point x="266" y="906" type="curve" smooth="yes"/>
+      <point x="236" y="906" smooth="yes"/>
+      <point x="176" y="942" smooth="yes"/>
+      <point x="130" y="942" type="curve" smooth="yes" name="hr01"/>
+      <point x="90" y="942"/>
+      <point x="59" y="918"/>
+      <point x="38" y="843" type="curve"/>
+      <point x="95" y="825" type="line"/>
+      <point x="105" y="855" smooth="yes"/>
+      <point x="116" y="869" smooth="yes"/>
+      <point x="140" y="869" type="curve" smooth="yes"/>
+      <point x="171" y="869" smooth="yes"/>
+      <point x="230" y="833" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="846" width="-21" />
+      <hstem pos="869" width="73" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="833" width="73" />
+      <hstem pos="950" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

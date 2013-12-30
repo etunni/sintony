@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="980"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component  base="fourinferior" xOffset="558" yOffset="107"/>
+    <component  base="threeinferior" xOffset="7" yOffset="433"/>
+    <component  base="fraction" xOffset="363" yOffset="30"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-14" width="52" />
+      <hstem pos="262" width="52" />
+      <hstem pos="357" width="51" />
+      <hstem pos="633" width="51" />
+      <vstem pos="96" width="59" />
+      <vstem pos="321" width="60" />
+      <vstem pos="574" width="59" />
+      <vstem pos="799" width="60" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

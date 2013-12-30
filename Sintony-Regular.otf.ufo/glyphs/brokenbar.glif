@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="325"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="114" y="439" type="line" name="hr00"/>
+      <point x="211" y="439" type="line"/>
+      <point x="211" y="775" type="line"/>
+      <point x="114" y="775" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="-106" type="line"/>
+      <point x="211" y="-106" type="line"/>
+      <point x="211" y="230" type="line"/>
+      <point x="114" y="230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-85" width="-21" />
+      <hstem pos="775" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
